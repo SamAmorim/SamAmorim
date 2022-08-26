@@ -30,5 +30,7 @@
  
  
 </div>
+  
+   ![Snake animation](https://github.com/SamAmorim/SamAmorim/blob/output/github-contribution-grid-snake.svg)
 
   

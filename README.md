@@ -13,8 +13,6 @@
   <img align="center" alt="Sam-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Sam-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
 
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" src="https://yt3.ggpht.com/lnxiuMFNzMo0hvR06L85m4QEbk4T6RVrBvUfaax99bgGgfG10tntExoTHkEyoeKte0uzgMuv=s600-c-k-c0x00ffffff-no-rj-rp-mo?width=676&height=676">
 </div>
   
   

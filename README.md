@@ -67,29 +67,28 @@
   <img src="https://img.shields.io/badge/Delta%20Lake-00435A?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-<h3>🧮 Data Science & Linguagens</h3>
+<h3>💻 Linguagens de Programação</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+<h3>🧮 Bibliotecas & Frameworks</h3>
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-<h3>💾 Databases & SQL</h3>
+<h3>💾 Databases & BI</h3>
 <p>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="httpsDei/img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<h3>📊 BI & Visualização</h3>
-<p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https.img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 <h3>🛠️ Ferramentas & Metodologias</h3>
@@ -97,11 +96,16 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrum-0093D1?style=for-the-badge&logo=scrum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metodologias%20Ágeis-0093D1?style=for-the-badge&logo=scrum&logoColor=white"/>
-  <img src="httpsTwo/img.shields.io/badge/ITIL-BF007D?style=for-the-badge&logo=itil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ITIL-BF007D?style=for-the-badge&logo=itil&logoColor=white"/>
+</p>
+
+<h3>🌍 Idiomas</h3>
+<p>
+  <img src="https://img.shields.io/badge/Inglês-B2-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Espanhol-B1-C4122E?style=for-the-badge"/>
 </p>
 
 

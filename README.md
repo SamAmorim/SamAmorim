@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>Data Professional | AI Researcher | Geek de Cultura Pop</strong>
+  <strong>Data Professional | AI Researcher</strong>
 </p>
 
 <p align="center">

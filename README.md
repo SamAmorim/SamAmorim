@@ -21,6 +21,12 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpzMGpuN3RnamJyYTB2cmc0MW4xNGU2OW96dnFiYWQ2eDhlYW9jciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/37Uer6MbSlFgA/giphy.gif" width="30px" style="margin-right: 10px;"> 
   Sobre Mim
 </h2>
+<p>
+  Profissional de Dados com mais de 2 anos de experiência, focado em Engenharia e Análise de Dados em ambientes corporativos globais (EUA, Europa, Índia e Brasil). Minha experiência prática inclui a construção de pipelines ETL (Azure Databricks, PySpark), a implementação de arquiteturas Lakehouse com Governança de Dados e a criação de dashboards analíticos (Power BI, DAX).
+</p>
+<p>
+ Em pesquisa acadêmica, desenvolvi e publiquei projetos de Machine Learning e inteligencia artificial.
+</p>
 
 ---
 
@@ -30,9 +36,10 @@
 </h2>
 
 ### [🎵 Sistema de recomendação de músicas](https://github.com/SamAmorim/Music_Recommendation_Algorithm_Semisupervised_AI)
-* 🎧 Integração com API do Spotify
-* 🔎 EDA (Análise Exploratória de Dados)
-* 💻 Python, Scikit-learn, Pandas
+* 🔬 Pesquisa Acadêmica (Sistema de Recomendação)
+* 🧠 Inteligência Artificial & Machine Learning (Semissupervisionado)
+* 🧊 Resolução de "Cold Start"
+* 💻 Python, Scikit-learn, Pandas, API do Spotify
 
 ---
     
@@ -73,7 +80,7 @@
 <p>
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="httpsDei/img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -82,7 +89,7 @@
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https.img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 <h3>🛠️ Ferramentas & Metodologias</h3>
@@ -94,7 +101,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scrum-0093D1?style=for-the-badge&logo=scrum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metodologias%20Ágeis-0093D1?style=for-the-badge&logo=scrum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ITIL-BF007D?style=for-the-badge&logo=itil&logoColor=white"/>
+  <img src="httpsTwo/img.shields.io/badge/ITIL-BF007D?style=for-the-badge&logo=itil&logoColor=white"/>
 </p>
 
 
@@ -123,9 +130,6 @@
 </p>
 <p>
   📊 Estatística & Modelagem Preditiva
-</p>
-<p>
-  🤖 Sistemas de Recomendação (Cold Start)
 </p>
 <p>
   ☁️ Arquitetura & Migração de Nuvem (Azure)
